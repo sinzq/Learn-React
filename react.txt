@@ -1,0 +1,12 @@
+                                Road Map react
+
+This is libary of javascript. 
+
+facebook crated react project. 
+
+Don't we react developer
+
+* why  -- Make easy to manage & build compplete make complex front end.  
+* when -- After mastering js most project don't need react in intital phase.
+* why react  -- facebook reload whole page we want only some selected page.
+*
